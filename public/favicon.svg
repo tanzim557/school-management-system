@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1" />
+      <stop offset="50%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#ec4899" />
+    </linearGradient>
+    <linearGradient id="grad2" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4f46e5" />
+      <stop offset="100%" stop-color="#06b6d4" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="24" fill="url(#grad2)" />
+  <!-- Graduation Cap / Diamond Modern Icon -->
+  <path d="M50 24L18 39L50 54L82 39L50 24Z" fill="#ffffff" />
+  <path d="M28 47V65C28 72 38 78 50 78C62 78 72 72 72 65V47L50 58L28 47Z" fill="#ffffff" fill-opacity="0.85" />
+  <circle cx="82" cy="48" r="4" fill="#fbbf24" />
+  <path d="M82 48V68" stroke="#fbbf24" stroke-width="3" stroke-linecap="round" />
+</svg>
